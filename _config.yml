@@ -9,25 +9,24 @@ markdown: kramdown
   
 # The title and tagline is showed on homepage
 #
-title :  赵宏阳
-tagline: 赵宏阳的 Blog
+title :  xls
+tagline: xls的 Blog
 
 # Information about author
 #
 author :
-  name : 赵宏阳
+  name : xls
   
 # Information for contacts showed at on the footer
 #
 contact :
-  e-mail : mailto:zhy755788055@gmail.com
-  Github : https://github.com/zhy755788055
-  WeiBo : http://www.weibo.com/u/1835738442
+  e-mail : 1229274924@qq.com
+
  
 # Links showed on the footer
 #
 links :
-  赵宏阳的 Blog : http://www.zhaohongyang.org
+  xls的 Blog : http://www.aiavlive.xyz
 
 # The search engine. Only support google custom search engine.
 #
@@ -67,7 +66,7 @@ auto_loadmore : true
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://www.zhaohongyang.org
+production_url : http://www.aiavlive.xyz
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -126,9 +125,9 @@ JB :
   comments :
     provider : duoshuo
     duoshuo :
-      short_name : zhy755788055
+      short_name : xls1229274924
     disqus :
-      short_name : zhy755788055
+      short_name : xls1229274924
     livefyre :
       site_id : 123
     intensedebate :
